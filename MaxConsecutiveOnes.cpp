@@ -7,7 +7,7 @@ public:
                 temp_max++;
                 if(i == (nums.size() -1) && max_ones == 0){              
                     return temp_max;
-                }
+                } 
             }
             else{  
                 if(temp_max > max_ones){
