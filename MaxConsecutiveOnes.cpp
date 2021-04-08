@@ -14,7 +14,7 @@ public:
                     max_ones = temp_max;
                 }
                 temp_max = 0;
-            }
+            } 
         }
         if(temp_max > max_ones){
             max_ones = temp_max;
